@@ -1,0 +1,138 @@
+#para1{
+    background-color:bisque;
+    height:100px;
+    font-weight:bold;
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size:32px;
+}
+#para2{
+    height:150px;
+    font-weight:bold;
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size:22px;
+}
+h1{
+    color:blue;
+}
+div{
+    color:white;
+    height:73px;
+    width:100%;
+    font-size:31px;
+    font-family:cursive;
+}
+.commom-align{
+    text-align:center;
+}
+.backgroundColor{
+    background-color:yellowgreen;
+}
+.even{
+    background-color:blue;
+    height:100px;
+}
+.odd{
+    background-color:aqua;
+    height:100px;
+}
+.container-fluid{
+    background-color:firebrick;
+}
+.nav-link {
+    color:white;
+    margin: 20px;
+    font-family: Arial;
+    font-weight:bold;
+    
+}
+body {
+/*    background-image: url( 'starry-sky-2675322.jpg');
+*/    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content h1{
+     width:2000px;
+     font-size:50px;
+     margin-top:9%;
+     padding-left:20px;
+     color:white;
+     position:relative;
+     font-family:'Times New Roman';
+     letter-spacing:2px;
+      
+}
+.content p {
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    padding-right: 78px;
+    font-size: 15px;
+}
+.cn {
+    width: 119px;
+    height: 36px;
+    background: #ff6a00;
+    border: none;
+    color: navy;
+    font-size: 24px;
+    margin-left: 32px;
+    padding-right: -14px;
+}
+.form {
+    width: 285px;
+    height: 326px;
+    position: absolute;
+    top: -20px;
+    left: 870px;
+    border-radius: 33px;
+    padding: 28px;
+    font-size: 16px;
+    margin-top: 209px;
+    background: #54747a;
+}
+.form h2{
+    width:220px;
+    font-family:sans-serif;
+    text-align:center;
+    color:#ff6a00;
+    font-size:22px;
+    background-color:#ffffff;
+}
+    .form input {
+        width: 240px;
+        height: 35px;
+        background: #dee2e6;
+        
+    }
+#carouselExampleIndicators{
+    position:relative;
+    top:60px;
+}
+.carousel-inner{
+    height:500px;
+}
+#productList{
+    position:relative;
+    top:80px;
+}
+.card{
+    margin-bottom:10px;
+}
+body{
+    height:1000px;
+}
+#footer{
+    position:relative;
+    top:100px;
+    background:lightgrey;
+    height:300px;
+}
+#footer ul{
+    font-weight:300;
+    font-size:18px;
+}
+#footer ul li a{
+    text-decoration:underline;
+}

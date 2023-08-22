@@ -1,0 +1,35 @@
+﻿
+.AA{
+   text-align:center;
+}
+body {
+    background-color: #f2e0e0;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 31px;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    text-align: center;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 31px;
+}
+.d-flex {
+    display: flex !important;
+    text-align: center;
+    margin-left: 585px;
+    margin-top: 31px;
+    margin-bottom: 20px;
+}
